@@ -1,7 +1,7 @@
-package com.home.controller;
+package com.rest.controller;
 
-import com.home.dto.DemoDto;
-import com.home.service.DemoService;
+import com.rest.dto.DemoDto;
+import com.rest.service.DemoService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.ResponseEntity;
 import org.springframework.web.bind.annotation.GetMapping;

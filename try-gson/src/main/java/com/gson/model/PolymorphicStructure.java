@@ -1,4 +1,4 @@
-package com.home.model;
+package com.swagger.model;
 
 import com.google.gson.JsonArray;
 import com.google.gson.JsonDeserializationContext;

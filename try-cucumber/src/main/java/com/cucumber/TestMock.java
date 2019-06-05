@@ -1,4 +1,4 @@
-package com.home;
+package com.cucumber;
 
 class TestMock {
   static String isItFriday(String today) {

@@ -1,6 +1,6 @@
-package com.home;
+package com.rest;
 
-import com.home.dto.DemoDto;
+import com.rest.dto.DemoDto;
 import lombok.extern.slf4j.Slf4j;
 import org.junit.Test;
 import org.junit.runner.RunWith;

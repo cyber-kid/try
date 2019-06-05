@@ -1,6 +1,6 @@
-package com.home.service;
+package com.rest.service;
 
-import com.home.dto.DemoDto;
+import com.rest.dto.DemoDto;
 import org.springframework.stereotype.Service;
 
 import java.time.LocalDateTime;

@@ -1,13 +1,8 @@
-package com.home.model;
+package com.swagger.model;
 
-import com.google.gson.Gson;
-import com.google.gson.GsonBuilder;
-import com.home.model.PolymorphicStructure;
 import lombok.extern.slf4j.Slf4j;
-import org.junit.BeforeClass;
 import org.junit.Test;
 
-import java.text.DateFormat;
 import java.util.Arrays;
 import java.util.HashMap;
 import java.util.List;

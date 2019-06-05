@@ -1,4 +1,4 @@
-package com.home.model;
+package com.swagger.model;
 
 import com.google.gson.Gson;
 import com.google.gson.GsonBuilder;

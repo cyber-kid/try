@@ -1,4 +1,4 @@
-package com.home;
+package com.rest;
 
 import org.springframework.boot.test.context.TestConfiguration;
 import org.springframework.boot.web.client.RestTemplateBuilder;
