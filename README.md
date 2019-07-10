@@ -1,9 +1,9 @@
 # Try
 Simple project to play with and try out different frameworks. It contains next modules:
-* **try-cucumber** - Cucumber test definitions;
-* **try-gson** - Gson custom serializers and deserializers;
-* **try-rest-template** - Different Rest template configuration options;
-* **try-swagger** - Example of swagger setup;
+* **[try-cucumber](#try-cucumber)** - Cucumber test definitions;
+* **[try-gson](#try-gson)** - Gson custom serializers and deserializers;
+* **[try-rest-template](#try-rest-template)** - Different Rest template configuration options;
+* **[try-swagger](#try-swagger)** - Example of swagger setup;
 
 ## Useful links
 * Swagger 2 with Spring - https://www.baeldung.com/swagger-2-documentation-for-spring-rest-api
@@ -12,22 +12,22 @@ Simple project to play with and try out different frameworks. It contains next m
 * Asciidoctor - https://www.baeldung.com/asciidoctor
 * AsciiDoc writers guide - https://asciidoctor.org/docs/asciidoc-writers-guide/
 
-## try-cucumber
+## <a name="try-cucumber" /> try-cucumber
 ##### Description
 
 ##### ToDo
 
-## try-gson
+## <a name="try-gson" /> try-gson
 ##### Description
 
 ##### ToDo
 
-## try-rest-template
+## <a name="try-rest-template" /> try-rest-template
 ##### Description
 
 ##### ToDo
 
-## try-swagger
+## <a name="try-swagger" /> try-swagger
 ##### Description
 Simple example of book store Rest APIs with:
 * swagger UI - http://localhost:8080/swagger-ui.html;
