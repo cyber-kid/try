@@ -6,6 +6,11 @@ Simple project to play with and try out different frameworks. It contains next m
 * **try-swagger** - Example of swagger setup;
 
 ## Useful links
+* Swagger 2 with Spring - https://www.baeldung.com/swagger-2-documentation-for-spring-rest-api
+* Static HTML documents with Swagger and Spring - https://g00glen00b.be/generating-static-documentation-swagger/
+* Spring REST Docs Test - https://docs.spring.io/spring-boot/docs/current/reference/html/boot-features-testing.html#boot-features-testing-spring-boot-applications-testing-autoconfigured-rest-docs
+* Asciidoctor - https://www.baeldung.com/asciidoctor
+* AsciiDoc writers guide - https://asciidoctor.org/docs/asciidoc-writers-guide/
 
 ## try-cucumber
 ##### Description
