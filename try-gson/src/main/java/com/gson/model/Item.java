@@ -1,4 +1,4 @@
-package com.swagger.model;
+package com.gson.model;
 
 import lombok.AllArgsConstructor;
 import lombok.NoArgsConstructor;

@@ -1,4 +1,4 @@
-package com.swagger.model;
+package com.gson.model;
 
 import lombok.extern.slf4j.Slf4j;
 import org.junit.Test;
