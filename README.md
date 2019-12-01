@@ -11,6 +11,15 @@ Simple project to play with and try out different frameworks. It contains next m
 * Spring REST Docs Test - https://docs.spring.io/spring-boot/docs/current/reference/html/boot-features-testing.html#boot-features-testing-spring-boot-applications-testing-autoconfigured-rest-docs
 * Asciidoctor - https://www.baeldung.com/asciidoctor
 * AsciiDoc writers guide - https://asciidoctor.org/docs/asciidoc-writers-guide/
+#### OAuth links:
+https://www.baeldung.com/rest-api-spring-oauth2-angular
+https://dzone.com/articles/build-an-oauth-20-authorization-server-with-spring
+https://github.com/Baeldung/spring-security-oauth/blob/master/oauth-resource-server-1/src/main/java/com/baeldung/config/OAuth2ResourceServerConfigRemoteTokenService.java
+https://docs.spring.io/spring-security-oauth2-boot/docs/current/reference/html/common-application-properties.html
+https://www.baeldung.com/spring-boot-https-self-signed-certificate
+https://dzone.com/articles/secure-spring-rest-api-using-oauth2
+http://www.bubblecode.net/en/2016/01/22/understanding-oauth2/
+https://learning.getpostman.com/docs/postman/sending_api_requests/certificates/
 
 ## <a name="try-cucumber" /> try-cucumber
 ##### Description

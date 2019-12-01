@@ -1,0 +1,13 @@
+<!DOCTYPE html>
+<html xmlns:th="http://www.thymeleaf.org" lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+</head>
+<body>
+    <div th:text="${message}"></div>
+
+    <a th:href="@{${url}}">login</a>
+    <a href="http://127.0.0.1:8082/auth/oauth/logout">logout</a>
+</body>
+</html>
